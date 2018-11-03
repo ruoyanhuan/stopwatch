@@ -1,0 +1,4 @@
+一个在borland c++环境下运行的秒表
+enter 开始
+space 暂停
+backspace 停止
